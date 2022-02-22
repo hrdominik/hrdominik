@@ -19,9 +19,9 @@ Feel free to ask me about <b>python-scripts</b>, <b>react-js</b> and <b>docker</
 ### Skills
 > <img src="https://dominik.hoehr.net/assets/images/python.svg" alt="Python" height="30" /> <img src="https://dominik.hoehr.net/assets/images/java.svg" alt="Java" height="30" /> <img src="https://dominik.hoehr.net/assets/images/javascript.svg" alt="JavaScript" height="25" /> <img src="https://dominik.hoehr.net/assets/images/html5.svg" alt="HTML 5" height="30" /> <img src="https://dominik.hoehr.net/assets/images/css3.svg" alt="CSS 3" height="30" /> &nbsp;&nbsp;&nbsp; <img src="https://dominik.hoehr.net/assets/images/react.svg" alt="react" height="25" /> <img src="https://dominik.hoehr.net/assets/images/redux.svg" alt="redux" height="25" /> &nbsp;&nbsp;&nbsp; <img src="https://dominik.hoehr.net/assets/images/postgresql.svg" alt="PostgreSQL" height="30" /> &nbsp;&nbsp;&nbsp; <img src="https://dominik.hoehr.net/assets/images/docker.svg" alt="Docker and Docker Compose" height="30" /> <img src="https://dominik.hoehr.net/assets/images/nginx.svg" alt="Nginx" height="35" />
 
-#### To make one thing clear
-<img src="https://dominik.hoehr.net/assets/images/vscode.svg" alt="Visual Studio Code" height="25" /> and <img src="https://dominik.hoehr.net/assets/images/docker.svg" alt="Docker and Docker Compose" height="25" /> is love. <br/>
-And use <img src="https://dominik.hoehr.net/assets/images/python.svg" alt="Python" height="25" /> only with venv
+#### To make things clear
+1. <img src="https://dominik.hoehr.net/assets/images/vscode.svg" alt="Visual Studio Code" height="25" /> and <img src="https://dominik.hoehr.net/assets/images/docker.svg" alt="Docker and Docker Compose" height="25" /> is love. <br/>
+1. Use <img src="https://dominik.hoehr.net/assets/images/python.svg" alt="Python" height="25" /> only with venv
 
 ## Contact
 Feel free to get in touch with me: <br />
