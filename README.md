@@ -4,7 +4,7 @@
 ## About me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?logo=Linkedin&logoColor=white)](https://linkedin.com/in/dominik-hoehr)
 [![Stackoverflow Badge](https://img.shields.io/badge/Stackoverflow-222426?logo=Stackoverflow&logoColor=f48024)](https://stackoverflow.com/users/16983494)
-[![MyWebsite Badge](https://img.shields.io/badge/My-Website-FFB900?)](https://dominik.hoehr.net)
+[![MyWebsite Badge](https://img.shields.io/badge/My-Website-FFB900)](https://dominik.hoehr.net)
 
 <h4 align=center>👋 Hi, I'm Dominik,</h4>
 <p align=center>
