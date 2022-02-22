@@ -24,7 +24,7 @@ Feel free to ask me about <b>python-scripts</b>, <b>react-js</b> and <b>docker</
 1. Use <img src="https://dominik.hoehr.net/assets/images/python.svg" alt="Python" height="25" /> only with venv
 
 ## Contact
-Feel free to get in touch with me: <br />
+Feel free to get in touch with me on <br />
 &nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/dominik-hoehr"><img src="https://dominik.hoehr.net/assets/images/linked-in.svg" alt="dominik-hoehr" height="25" /></a> &nbsp;
 <a href="https://stackoverflow.com/users/16983494"><img src="https://dominik.hoehr.net/assets/images/stack-overflow.svg" alt="dominik-h" height="25" /></a>
