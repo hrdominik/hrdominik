@@ -8,7 +8,7 @@
 
 <h4 align=center>👋 Hi, I'm Dominik,</h4>
 <p align=center>
-currently i am a student and Full-Stack developer with a fokus on web applications and the DevOps-Engineering behind. <br />
+currently i am a student and Full-Stack developer with a focus on web applications and the DevOps-Engineering behind. <br />
 In my spare time i develop automation scripts to make my life easier or to improve my skills.
 <br /><br />
 Feel free to ask me about <b>python-scripts</b>, <b>react-js</b> and <b>docker</b>.
