@@ -16,7 +16,7 @@ Feel free to ask me about <b>python-scripts</b>, <b>react-js</b> and <b>docker</
 
 ### Currently 
 * Student of Business Informatics at the *University of Paderborn*
-   * Focusing on **process optimization** and **data science**
+   * Focusing on **process optimization** and **security**
 * Working student for an *IT-Consulting* company
    * Focusing on **Full-Stack** developing an web application
 
