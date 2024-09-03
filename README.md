@@ -11,12 +11,12 @@
 currently i am a student and Full-Stack developer with a focus on web applications and the DevOps-Engineering behind. <br />
 In my spare time i develop automation scripts to make my life easier or to improve my skills.
 <br /><br />
-Feel free to ask me about <b>python-scripts</b>, <b>react-js</b> and <b>docker</b>.
+Feel free to ask me about <b>python-scripts</b>, <b>python-server</b>, <b>react-js</b> or <b>docker and docker compose</b> to make your life easier.
 </p>
 
 ### Currently 
 * Student of Business Informatics at the *University of Paderborn*
-   * Focusing on **process optimization**, **data science** and **it-security**
+   * Focusing on **network/system architecture** and **network-/web-security**
 
 * Working student for an *IT-Consulting* company
    * Focusing on **Full-Stack** developing web application
