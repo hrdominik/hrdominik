@@ -6,20 +6,16 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/Stackoverflow-222426?logo=Stackoverflow&logoColor=f48024)](https://stackoverflow.com/users/16983494)
 [![MyWebsite Badge](https://img.shields.io/badge/My-Website-FFB900)](https://dominik.hoehr.net)
 
-<h4 align=center>👋 Hi, I'm Dominik,</h4>
+<h4 align=center>👋 Hi there, I'm Dominik,</h4>
 <p align=center>
-currently i am a student and DevOps-Engineer. <br />
+currently i am a Cloud- and DevOps-Engineer<br />
 In my spare time i develop automation scripts to make my life easier or to improve my skills.
 <br /><br />
 Feel free to ask me about <b>python-scripts</b>, <b>python-server</b> or <b>docker and docker compose</b>, <b>kubernetes</b> to make your life easier.
 </p>
 
 ### Currently 
-* Student of Business Informatics at the *University of Paderborn*
-   * Focusing on **network/system architecture** and **network-/web-security** with a spice of **data science** and **project management**
-
-* Working for an *IT-Consulting* company
-   * Cloud- and DevOps-Engineer
+Working for an *IT-Consulting* company as Lead Consultant, Cloud- and DevOps-Engineer
 
 ### Skills
 > <img src="https://user-images.githubusercontent.com/34007078/222959612-e663d164-0da8-49d1-b002-5c97f4240121.svg" alt="docker and docker compose" height="30px" /> <img src="https://github.com/user-attachments/assets/e0de63c9-0c87-48f7-adb2-b46a375ab2c9" alt="kubernetes" height="30px" /> <img src="https://user-images.githubusercontent.com/34007078/222959618-dc2b8995-7e5e-44c4-a46b-d2b15b0506a0.svg" alt="nginx" height="30px" /> <img src="https://github.com/user-attachments/assets/a8ca954c-4449-442c-8af4-bc877def38fc" alt="terraform" height="30px" /> <img src="https://github.com/user-attachments/assets/a279ac7e-f80c-47e1-89db-16b5bfae77cd" alt="GitLab CI/CD" height="25px" />
