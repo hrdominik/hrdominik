@@ -15,7 +15,7 @@ Feel free to ask me about <b>python-scripts</b>, <b>python-server</b> or <b>dock
 </p>
 
 ### Currently 
-Working for an *IT-Consulting* company as Lead Consultant, Cloud- and DevOps-Engineer
+Working for an *IT-Consulting* company as Senior Consultant, Cloud- and DevOps-Engineer
 
 ### Skills
 > <img src="https://user-images.githubusercontent.com/34007078/222959612-e663d164-0da8-49d1-b002-5c97f4240121.svg" alt="docker and docker compose" height="30px" /> <img src="https://github.com/user-attachments/assets/e0de63c9-0c87-48f7-adb2-b46a375ab2c9" alt="kubernetes" height="30px" /> <img src="https://user-images.githubusercontent.com/34007078/222959618-dc2b8995-7e5e-44c4-a46b-d2b15b0506a0.svg" alt="nginx" height="30px" /> <img src="https://github.com/user-attachments/assets/a8ca954c-4449-442c-8af4-bc877def38fc" alt="terraform" height="30px" /> <img src="https://github.com/user-attachments/assets/a279ac7e-f80c-47e1-89db-16b5bfae77cd" alt="GitLab CI/CD" height="25px" />
